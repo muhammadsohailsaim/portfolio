@@ -1,30 +1,30 @@
-const logotext = "Muhammad Safeer Hussain";
+const logotext = "M.Sohail";
 const meta = {
-    title: "Muhammad Safeer Hussain",
-    description: "I’m Muhammad Safeer Hussain _ Full stack Web Devloper",
+    title: "Muhammad Sohail - Web Designer",
+    description: "I’m Muhammad Sohail _ Front End Developer",
 };
 
 const introdata = {
-    title: "I’m M.Safeer Hussain",
+    title: "I’m M.Sohail",
     animated: {
-        first: "I’m a JavaScript Enthusiast",
-        second: "I’m Currently learning react native for building mobile Application.",
-        third: "I’m expert in React.JS, Python Django & Wordpress.",
+        first: "I’m a JavaScript Programmer",
+        second: "I’m Currently learning react for building Web Application.",
+        third: "I’m expert in HTML5, CSS3, JavaScript & Wordpress.",
     },
-    description: "I have more than three year of experience in  Web Designing & Development Field.",
-    your_img_url: "https://images.unsplash.com/photo-1685292278563-58a5a542310a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    description: "I have more than three year of experience in  Web Designing Field.",
+    your_img_url: "https://images.unsplash.com/photo-1685358674632-d5fbda4f441b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 };
 const dataabout = {
     title: "About MySelf",
-    aboutme: "Hello! I'm Muhammad Safeer Hussain, a passionate web developer dedicated to crafting exceptional digital experiences. With a strong foundation in HTML, CSS, JavaScript & Python. I bring websites to life with sleek designs and seamless functionality. I thrive on translating clients' visions into pixel-perfect reality, ensuring user-friendly interfaces and optimal performance across devices. My expertise extends to responsive design, front-end frameworks, and Backend Development. Equipped with a creative mindset and an eye for detail, I'm constantly exploring the latest industry trends and technologies to deliver innovative solutions.",
+    aboutme: "Hello! I'm Muhammad Sohail, a passionate web designer dedicated to crafting exceptional digital experiences. With a strong foundation in HTML, CSS, JavaScript & Wordpress. I bring websites to life with sleek designs and seamless functionality. I thrive on translating clients' visions into pixel-perfect reality, ensuring user-friendly interfaces and optimal performance across devices. My expertise extends to responsive design, front-end frameworks, and Wordpress Developement. Equipped with a creative mindset and an eye for detail, I'm constantly exploring the latest industry trends and technologies to deliver innovative solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Speacker In Seminar 'Tech Workshop 2023'",
+        jobtitle: "Organizer In Seminar 'Tech Workshop 2023'",
         where: "IUB",
         date: "2023",
     },
     {
-        jobtitle: "Front End Bootcamp Competition Winner",
+        jobtitle: "Wordpress Development Bootcamp",
         where: "Google DSC-IUB",
         date: "2022",
     },
@@ -35,19 +35,19 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Python",
+        name: "HTML",
         value: 82,
     },
     {
-        name: "React",
+        name: "CSS",
         value: 75,
     },
     {
-        name: "Next",
+        name: "Wordpress",
         value: 80,
     },
     {
-        name: "Django",
+        name: "Lead Generation",
         value: 70,
     },
     {
@@ -58,11 +58,7 @@ const skills = [{
 
 const services = [{
         title: "Front End Development",
-        description: "I develop Front End Template of websites in React or with the combination of HTML5, CSS3 & JS.",
-    },
-    {
-        title: "Web Development",
-        description: "I develop a website by using React or HTML5, CSS3 & JS for front end development and Python Django or Node JS for backend. Either, i develop in Next JS too.",
+        description: "I develop Front End Template of websites with the combination of HTML5, CSS3 & JS.",
     },
     {
         title: "Wordpress Development",
@@ -75,40 +71,40 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://plus.unsplash.com/premium_photo-1676618539987-12b7c8a8ae61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        description: "Project 1",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1685355520475-267c913de1e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+        description: "Tech Innovaters Website",
+        link: "https://techinnovaters.com/",
     },
     {
-        img: "https://plus.unsplash.com/premium_photo-1676618539987-12b7c8a8ae61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        description: "Project 2",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1685353503051-eb25c31f6c06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+        description: "Watch Store Template",
+        link: "https://github.com/msafeerhussain/Watch_store_template.git",
     },
     {
-        img: "https://plus.unsplash.com/premium_photo-1676618539987-12b7c8a8ae61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        description: "Project 3",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1685353503036-5ea74a2a2f21?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+        description: "Ecommerce Site Template",
+        link: "https://github.com/msafeerhussain/Ecommerce_site_template.git",
     },
     {
-        img: "https://plus.unsplash.com/premium_photo-1676618539987-12b7c8a8ae61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        description: "Project 4",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1685353503035-e188fb905f46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        description: "Construction Company Website",
+        link: "https://github.com/msafeerhussain/Construction_Company_website.git",
     },
     {
-        img: "https://plus.unsplash.com/premium_photo-1676618539987-12b7c8a8ae61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        description: "Project 5",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1685355520465-e8e6ebf172fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        description: "Animatronexpo Personal Portfolio",
+        link: "animatronexpo.com",
     },
     {
-        img: "https://plus.unsplash.com/premium_photo-1676618539987-12b7c8a8ae61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        description: "Project 6",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1685353503115-01819fcdb22c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8M3x8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        description: "Image Gallery Template",
+        link: "https://github.com/msafeerhussain/Image_gallery.git",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "msafeerhussain@gmail.com",
-    YOUR_FONE: "+92-3351806883",
+    YOUR_EMAIL: "sohailsaimdnp@gmail.com",
+    YOUR_FONE: "+92-3047208989",
     description: "Please Contact me, in case of any query. I will resolve it for you. ",
     
     YOUR_SERVICE_ID: "service_d1y96cj",
@@ -117,10 +113,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/msafeerhussain",
-    facebook: "https://www.facebook.com/msafeerhussain1214/",
-    linkedin: "https://www.linkedin.com/in/muhammad-safeer-hussain-845538205/",
-    twitter: "https://twitter.com/Muhamma66917301",
+    github: "#",
+    facebook: "https://www.facebook.com/sohail.saim.524",
+    linkedin: "https://www.linkedin.com/in/sohail-saim-b2715819a",
+    twitter: "#",
 };
 export {
     meta,
