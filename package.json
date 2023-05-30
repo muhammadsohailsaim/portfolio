@@ -1,6 +1,6 @@
 {
     "name": "portfolio",
-    "homepage": "http://MS-Hamza.github.io/personal_portfolio",
+    "homepage": "http://Sohailsaim.github.io/personal_portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -42,5 +42,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^5.0.0"
     }
 }
